@@ -15,7 +15,7 @@ This is a secure, locally-stored password management application built in Python
 ## Prerequisites
 
 - Python 3.7+
-- cryptography library
+- Cryptography library
 
 ## Installation
 
