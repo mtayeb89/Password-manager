@@ -56,17 +56,17 @@ python password_manager.py
 ## Security Notes
 
 - Keep your master password secure and memorable
-- Passwords are encrypted locally in `password_vault.txt`
+- Passwords are encrypted locally in "password_vault.txt"
 - Losing the master password means losing access to stored passwords
 - Do not share the `password_vault.txt` file
 
 ## How It Works
 
-1. When first launched, you create a master password
-2. The master password is used to derive an encryption key
-3. Passwords are encrypted before being stored
-4. Each password is stored with its service name and username
-5. Passwords can only be decrypted with the correct master password
+1. When first launched, you create a master password.
+2. The master password is used to derive an encryption key.
+3. Passwords are encrypted before being stored.
+4. Each password is stored with its service name and username.
+5. Passwords can only be decrypted with the correct master password.
 
 ## Limitations
 
